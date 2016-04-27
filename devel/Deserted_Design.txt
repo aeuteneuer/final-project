@@ -1,0 +1,9 @@
+Deserted  Design 
+
+Deserted is a game based on choices.  Every choice will have a different outcome in the game.  Every time you play could potentially be a brand new story.
+
+
+With the use of functions I have made the ability for users to choose a response and determine their outcome.
+
+
+Enjoy.
